@@ -1,0 +1,10 @@
+pymupdf>=1.24
+arxiv>=2.1
+sentence-transformers>=3.0
+qdrant-client>=1.10
+pillow
+numpy
+python-dotenv
+streamlit
+tqdm
+pytest
